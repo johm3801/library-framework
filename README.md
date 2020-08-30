@@ -5,7 +5,7 @@
 # Framework
 
 ```
-**소프트웨어의 특정 문제*를 해결하기 위해서 상호 협력하는 클래스와 인터페이스의 집합**
+소프트웨어의 특정 문제*를 해결하기 위해서 상호 협력하는 클래스와 인터페이스의 집합
 *객체 지향 개발을 하게 되면서 통합성, 일관성의 부족이 발생되는 문제
 ```
 
@@ -15,12 +15,13 @@
 즉, 프레임워크는 완성된 제품이 아닌 완성된 제품을 만들기 위해서 개발자를 도와주는 또는 기반이 되는 역할을 합니다.  
 
 ### 언어별 대표 프레임워크
-> Python - Django  
-> Java - Spring  
-> PHP - Laravel  
-> JavaScript - React  
-> Ruby - Rails  
- 
+|프로그래밍 언어|프레임워크|
+|:---:|:---:|
+|Python|Django, Flask|
+|Java|Spring, Struts|
+|JavaScript|React, AngularJS|
+|PHP|Laravel, Symphony, Symphony|
+
 # Library
 ```
 프로그램 기능 수행을 위해 활용 가능한 도구들의 집합
@@ -30,8 +31,10 @@
 개발자가 만든 클래스에서 호출하여 사용, 클래스들의 나열로 필요한 클래스를 불러서 사용하는 방식을 취하고 있습니다.
 
 ### 언어별 라이브러리 예시
-> Java - JUnit, Jackson
-> JavaScript - jQuery, Chart.js  
-> Python - 아파치 Libcloud, Arrow, Behold  
+|프로그래밍 언어|라이브러리|
+|:---:|:---:|
+|Python|Libcloud, Arrow, Behold|  
+|Java|JUnit, Jackson|
+|avaScript|jQuery, Chart.js| 
 
 ## 프레임워크와 라이브러리의 차이점
