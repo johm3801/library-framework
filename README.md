@@ -1,7 +1,7 @@
 # 프레임워크와 라이브러리
 프로그래밍을 할 때 프레임워크와 라이브러리라는 단어를 자주 들어보셨을거라 생각합니다.  
 먼저 프레임워크와 라이브러리의 개념에 대해 살펴보고 둘의 차이점에 대해 알아보도록 하겠습니다.  
-
+___
 # Framework
 
 ```
@@ -20,9 +20,13 @@
 |Java|Spring, Struts|
 |JavaScript|React, AngularJS|
 |PHP|Laravel, Symphony, Symphony|
+
 <br><br/>
 * Django로 프레임워크와 친해지기!
-
+Django는 Python 기반의 무료 오픈소스 웹 애플리케이션 프레임워크입니다.  
+웹사이트는 기본적으로 사용자 인증(회원가입, 로그인, 로그아웃)이나 웹사이트의 관리자 패널, 폼, 파일 업로드와 같은 비슷한 요소들을 필요로 합니다.  
+장고는 이러한 요소들을 신속하게 개발하는데 도움을 주는 구성요소로 이루어져있어, 개발자는 웹 개발에서 번거로운 요소들을 새로 개발할 필요 없이 내장된 기능만을 이용해 빠른 개발을 할 수 있습니다.
+___
 # Library
 ```
 프로그램 기능 수행을 위해 활용 가능한 도구들의 집합
@@ -37,9 +41,9 @@
 |Python|Libcloud, Arrow, Behold|  
 |Java|JUnit, Jackson|
 |avaScript|jQuery, Chart.js| 
+
 <br><br/>
 * Tensorflow로 라이브러리와 친해지기!
 
 <br><br/>
-참고자료  
-[프레임워크와 라이브러리의 차이점](https://webclub.tistory.com/458)  
+참고자료 [프레임워크와 라이브러리의 차이점](https://webclub.tistory.com/458)
