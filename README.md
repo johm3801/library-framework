@@ -15,11 +15,11 @@
 즉, 프레임워크는 완성된 제품이 아닌 완성된 제품을 만들기 위해서 개발자를 도와주는 또는 기반이 되는 역할을 합니다.  
 
 ### 언어별 대표 프레임워크
-Python - Django  
-Java - Spring  
-PHP - Laravel  
-JavaScript - React  
-Ruby - Rails  
+> Python - Django  
+> Java - Spring  
+> PHP - Laravel  
+> JavaScript - React  
+> Ruby - Rails  
  
 # Library
 ```
@@ -30,8 +30,8 @@ Ruby - Rails
 개발자가 만든 클래스에서 호출하여 사용, 클래스들의 나열로 필요한 클래스를 불러서 사용하는 방식을 취하고 있습니다.
 
 ### 언어별 라이브러리 예시
-Java - JUnit, Jackson
-JavaScript - jQuery, Chart.js  
-Python - 아파치 Libcloud, Arrow, Behold  
+> Java - JUnit, Jackson
+> JavaScript - jQuery, Chart.js  
+> Python - 아파치 Libcloud, Arrow, Behold  
 
 ## 프레임워크와 라이브러리의 차이점
